@@ -1,23 +1,11 @@
-# KAUST DGyM Lab
+# DGyM-Lab/.github
 
-Welcome to the Digital Geo-Energy Modeling (DGyM) Lab.
+This repository holds the public profile of the [DGyM-Lab](https://github.com/DGyM-Lab) GitHub organization.
 
-## 🔬 Research Areas
-- Reservoir simulation
-- Reduced-order modeling
-- CO₂ sequestration
-- Surrogate modeling
+- `profile/README.md`: the text shown on the organization page
+- `profile/img/`: the logo and figures used there
 
-## 👥 Team
-- Faculty
-- Postdocs
-- PhD Students
+To update the organization page, edit `profile/README.md` and add any new images to `profile/img/`.
+The members-only page lives in the private `.github-private` repository.
 
-## 📚 Publications
-Coming soon...
-
-## 🤝 Collaborations
-KAUST ...
-
-## 📫 Contact
-dgym.kaust@gmail.com
+Contact: Prof. Bicheng Yan, bicheng.yan@kaust.edu.sa
