@@ -20,7 +20,7 @@ We apply these to **oil and gas production**, **geological carbon storage**, **g
 
 | Software | Description |
 |:---:|---|
-| <img src="img/gyms.png" alt="GYMS logo" width="140"> | **GYMS — GeoenergY Multi-physics Simulator suite.** Our in-house reservoir simulator for complex subsurface physics: thermal flow (coupled heat transfer, fluid flow and phase behavior) and hydrogen storage (compositional and bio-reactive transport). |
+| <img src="img/gyms.png" alt="GYMS logo" width="140"> | **GYMS — Geo-energY Multiphysics Simulator.** Our in-house reservoir simulator for complex subsurface physics: thermal flow (coupled heat transfer, fluid flow and phase behavior) and hydrogen storage (compositional and bio-reactive transport).<br><br>📄 Yusifov, H., Yan, B. (2026). GYMS – A Geo-energY Multiphysics Simulator for non-isothermal salt-liquid-vapor flow with applications to diverse geothermal reservoirs. *Computers and Geotechnics*, 200, 108479. [doi:10.1016/j.compgeo.2026.108479](https://doi.org/10.1016/j.compgeo.2026.108479) |
 | <img src="img/grace.png" alt="GRACE logo" width="140"> | **GRACE — Graph-based Reservoir Approximation, Calibration & Estimation.** A physics-based coarse-grid network surrogate: fast, physics-consistent modeling on coarse grids, deep-learning parameterization to compress geology, to enable efficient and accurate large-scale history matching. |
 
 > **These tools are not open source.** Their repositories are private to the lab. For access, licensing or research collaboration, please contact Prof. Bicheng Yan at [bicheng.yan@kaust.edu.sa](mailto:bicheng.yan@kaust.edu.sa).
