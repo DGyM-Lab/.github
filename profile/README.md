@@ -1,23 +1,34 @@
-# KAUST DGyM Lab
+<p align="center">
+  <img src="img/dgym_logo.png" alt="DGyM Lab logo" width="220">
+</p>
 
-Welcome to the Digital Geo-Energy Modeling (DGyM) Lab.
+# Deep Geo-Energy & Engineering Modeling Lab (DGyM)
 
-## 🔬 Research Areas
-- Reservoir simulation
-- Reduced-order modeling
-- CO₂ sequestration
-- Surrogate modeling
+We are a research group at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa), led by Prof. Bicheng Yan. We develop **physics-driven numerical simulation** and **data-driven modeling** of fluid flow in porous media, so that complex subsurface processes can be predicted accurately and managed efficiently.
 
-## 👥 Team
-- Faculty
-- Postdocs
-- PhD Students
+![DGyM research overview: technical foundations and application portfolio](img/dgym_research_overview.jpg)
 
-## 📚 Publications
-Coming soon...
+## What we do
 
-## 🤝 Collaborations
-KAUST ...
+- **Physics simulation:** from pore-scale multiphase flow to field-scale compositional, reactive and coupled-physics models
+- **Surrogate modeling:** deep-learning and hybrid physics–data-driven (graph-based) surrogates of reservoir simulators
+- **Reservoir management:** history matching, forecasting, and optimization of well placement and well control
 
-## 📫 Contact
-dgym.kaust@gmail.com
+We apply these to **oil and gas production**, **geological carbon storage**, **geothermal energy** and **underground hydrogen storage**.
+
+## Our software
+
+| Software | Description |
+|:---:|---|
+| <img src="img/gyms.png" alt="GYMS logo" width="140"> | **GYMS — GeoenergY Multi-physics Simulator suite.** Our in-house reservoir simulator for complex subsurface physics: thermal flow (coupled heat transfer, fluid flow and phase behavior) and hydrogen storage (compositional and bio-reactive transport). |
+| <img src="img/grace.png" alt="GRACE logo" width="140"> | **GRACE — Graph-based Reservoir Approximation, Calibration & Estimation.** A physics-based coarse-grid network surrogate: fast, physics-consistent modeling on coarse grids, deep-learning parameterization to compress geology, and efficient, accurate large-scale history matching. |
+
+> **These tools are not open source.** Their repositories are private to the lab. For access, licensing or research collaboration, please contact Prof. Bicheng Yan at [bicheng.yan@kaust.edu.sa](mailto:bicheng.yan@kaust.edu.sa).
+
+## Links
+
+[Website](https://dgym.kaust.edu.sa) · [People](https://dgym.kaust.edu.sa/people) · [Research](https://dgym.kaust.edu.sa/research) · [Publications](https://dgym.kaust.edu.sa/publications) · [Join us](https://dgym.kaust.edu.sa/join-us)
+
+DGyM is part of the Energy Resources and Petroleum Engineering program, Physical Science and Engineering Division, KAUST, Thuwal, Saudi Arabia, and works with the [Geo-Energy & Mineral Resources Platform (GEMs)](https://www.kaust.edu.sa/en/research/research-platforms/geo-energy-mineral-resources-platform).
+
+**Contact:** Prof. Bicheng Yan — [bicheng.yan@kaust.edu.sa](mailto:bicheng.yan@kaust.edu.sa)
