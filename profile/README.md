@@ -1,7 +1,8 @@
+<!--
 <p align="center">
   <img src="img/dgym_logo.png" alt="DGyM Lab logo" width="220">
 </p>
-
+-->
 # Deep Geo-Energy & Engineering Modeling Lab (DGyM)
 
 We are a research group at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa), led by Prof. Bicheng Yan. We develop **physics-driven numerical simulation** and **data-driven modeling** of fluid flow in porous media, so that complex subsurface processes can be predicted accurately and managed efficiently.
